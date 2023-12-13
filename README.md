@@ -1,6 +1,6 @@
 # Description
 
-A Chart project for uniovi-avib-morphingprojections-backend-chart microservice
+A Chart project for uniovi-avib-morphingprojections-backend microservice
 
 # Deploye steps
 
