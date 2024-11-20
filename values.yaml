@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   #repository: avibdocker.azurecr.io/uniovi-avib-morphingprojections-backend
-  repository: gsdpi/uniovi-avib-morphingprojections-backend
+  repository: gsdpi/morphingprojections-backend
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: "1.19.0"
