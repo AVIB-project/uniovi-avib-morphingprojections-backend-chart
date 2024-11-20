@@ -1,5 +1,5 @@
 apiVersion: v2
-name: uniovi-avib-morphingprojections-backend
+name: uniovi-avib-morphingprojections-backend-chart
 description: A Helm chart for uniovi-avib-morphingprojections-backend microservice in Kubernetes
 
 # A chart can be either an 'application' or a 'library' chart.
